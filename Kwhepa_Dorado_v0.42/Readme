@@ -1,0 +1,26 @@
+Version: 0.42
+
+Contact (fr/en)
+kwipkee.com
+kwipkee@gmail.com
+
+
+Consigns
+
+- Place the folder "Kwhepa_Dorado" in Home folder (also names Personnal Folder or after your user)
+- Place the file "Kwhepa_Dorado.py" in Home folder
+- You can choose which package or application you want to install by modifying PackageList.txt. To do so, just add "#" at the beginning of the line of the package you do not want.
+- Open your terminal and launch the script (watch uppercase and lowercase) with command "python3 Kwhepa_Dorado.py"
+
+
+Version notes:
+
+v0.1 - Andromeda - creation of Kwhepa
+v0.2 - Bootes - Automating (crontab)
+v0.21 - Bootes - Organisation (crontab)
+v0.22 - Bootes - Wireshark package deleted
+v0.30 - Caelum - Changing to Python
+v0.31 - Caelum - Corrections
+v0.40 - Dorado - Adding PackageList.txt for choice option
+v0.41 - Dorado - Deleting Crontab and corrections
+v0.42 - Dorado - Corrections
